@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi, I’m [@light-traveller](https://github.com/light-traveller) — a .NET software engineer by profession.
 
-<!--
-**light-traveller/light-traveller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m interested in almost *everything*, including the following
+- performance optimaization
+- algorithms
+- software architecture
+- low-level programming
+- programming languages 
+- electronics
+- mathematics
+- control theory
+- physics
+- chemistry
+- painting
+- ![guitar-s](https://user-images.githubusercontent.com/11184964/202048162-6317ecb1-32bf-4c0a-82f3-73e7f54fdccf.png)
 
-Here are some ideas to get you started:
+📫 reach me via light-traveller@outlook.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+light-traveller/light-traveller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
